@@ -14,6 +14,8 @@ Calculate the polynomial trend values using least square method
 
 End the program
 ### PROGRAM:
+### Name: RONICK AAKSHATH P
+### Reg. No.: 212222240084
 #### A - LINEAR TREND ESTIMATION
 ```python
 import numpy as np
